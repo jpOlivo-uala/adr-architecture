@@ -33,3 +33,5 @@ foo@bar:~$ open https://jpolivo-uala.github.io/adr-architecture/
 - [adr-tools](https://github.com/npryce/adr-tools)
 - [adr-log](https://adr.github.io/adr-log)
 - [Nygard format](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)
+- [When should I write an ADR](https://engineering.atspotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/)
+- [ADR Github organization](https://adr.github.io/)
