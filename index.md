@@ -6,7 +6,6 @@
 * [ADR-0002](0002-cognito-internals-auth-flows.md) - cognito internals auth flows
 * [ADR-0003](0003-logging-events-standardization.md) - logging events standardization
 * [ADR-0004](0004-my-new-decision.md) - my new decision
-* [ADR-1](README.md) - Architecture Decision Records (ADR)
 
 <!-- adrlogstop -->
 
