@@ -9,7 +9,7 @@ This repository aims to gather the more significant architecture decisions. All 
 We use [adr-tools](https://github.com/npryce/adr-tools) and [adr-log](https://adr.github.io/adr-log) in order to manage the ADRs
 
 
-## How to add a new Architecture Decision?
+## How to register a new Architecture Decision?
 
 1. Generate a new record
 
@@ -22,9 +22,9 @@ foo@bar:~$ adr new my new decision
 foo@bar:~$ adr-log -i
 ```
 
-3. Add the record to log
+3. Check that the record is published
 ```console
-foo@bar:~$ adr-log -i
+foo@bar:~$ open https://jpolivo-uala.github.io/adr-architecture/
 ```
 
 
